@@ -2,7 +2,7 @@
 
 ## How to Use
 
-Demo for this app is hosted on vercel https://progress-bar-eta.vercel.app/
+Demo for this app is hosted on vercel https://progress-bar-tau.vercel.app/
 
 Running locally can be done by following below steps
 
